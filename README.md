@@ -1,2 +1,2 @@
 # planmode-bookmarks-app
-Practice creating a simple html app with Claude
+Practice Claude, creating a simple HTML app
